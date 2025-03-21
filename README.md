@@ -31,3 +31,14 @@
 ###- A second type of supervised learning is the prediction of continuous outcomes, which is also called regression analysis. In regression analysis, we are given a number of predictors (explanatory) variables and a continuous response variable (outcome or target), and we try to find a relationship between those variables that allows us to predict an outcome.
 ###- Another type of ML is reinforcement learning, which has a goal to develop a system (agent) that improves its performance based on interactions with the environment. Since the information about the current state of the environment typically also includes a so-called reward signal, we can think of RL as a field related to supervised learning. However, in RL this feedback is not the correct ground truth label or value, but a measure of how well the action was measured by a reward function. An agent can use RL to learn a series of actions that maximizes this reward via an exploratory trial-and-error approach or deliberative planning. e.g. self-driving cars.
 
+**Day 5 of 60-Day Challenge**
+
+**Day 6 of 60-Day Challenge**
+
+**Day 7 of 60-Day Challenge**
+
+**Day 8 of 60-Day Challenge**
+###- Updated the RF Twitter dataset. Will be working on a sentiment analysis of his tweets vs the tweets that mention his account in certain period of time.
+###- After reading from a few blogs, it seems like Twint can't be used anymore. I will try to find another scraper in the next days.
+
+
